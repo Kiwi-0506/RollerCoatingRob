@@ -1,1 +1,2 @@
-# RollerCoatingRob
+# RollerCoatingRob 风电叶片辊涂机器人
+采用边涂边测的方式运行的机器人，本repo中的代码主要用于仿真验证可行性
